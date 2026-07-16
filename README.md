@@ -1,7 +1,7 @@
 # Another Location
 This mod adds a signle secret location to the your randomizer run. 
 
-You may think it doesn't work,when you can't find anything new after enabling the connection. That is not the case.
+You may think it doesn't work,when you can't find anything new after enabling the connection. That is not the case.                                                                                                   
 You simply didn't fullfill very specific conditions for it to actually appear.                                                                                                                                        
 Or maybe you did! But this mod is intentionally hiding the map pin,to encourage exploration. You can find a fairly specific hint to the location in your helper log,once the location is reacheble.
 

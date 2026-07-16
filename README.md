@@ -1,5 +1,5 @@
 # Another Location
-This mod adds a signle secret location to the your randomizer run. 
+This mod adds a signle secret location to your randomizer run. 
 
 You may think it doesn't work,when you can't find anything new after enabling the connection. That is not the case.                                                                                                   
 You simply didn't fullfill very specific conditions for it to actually appear.                                                                                                                                        

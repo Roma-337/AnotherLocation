@@ -1,0 +1,6 @@
+[
+  {
+    "name": "East_Sanctum_Spike_Roof",
+    "logic": "(Ruins1_25[left3] + RIGHTFIREBALL + WINGS + LEFTCLAW + ($SHRIEKPOGO[2,before:ROOMSOUL] | $SHRIEKPOGO[1,before:ROOMSOUL] + (RIGHTSUPERDASH | RIGHTSHARPSHADOW)))"
+  }
+]

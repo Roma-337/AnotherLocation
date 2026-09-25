@@ -13,7 +13,7 @@ namespace AnotherLocation
 
         private GlobalSettings globalSettings = new();
 
-        public override string GetVersion() => "1.0.0.0";
+        public override string GetVersion() => "1.0.0.1";
 
         public static GlobalSettings GlobalSettings => Instance?.globalSettings;
 

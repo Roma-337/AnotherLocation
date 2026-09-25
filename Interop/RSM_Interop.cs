@@ -23,7 +23,7 @@ namespace AnotherLocation.Interop
         public override bool TryProvideSettings(out RandoSettings settings)
         {
             settings = RandoSettings.FromGlobal(AnotherLocation.GlobalSettings);
-            return true;
+            return settings.BugPrince;
         }
 
         public override void ReceiveSettings(RandoSettings settings)
